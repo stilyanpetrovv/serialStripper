@@ -19,6 +19,12 @@ You can install SerialStripper using `go install`:
 go install github.com/stilyanpetrovv/serialStripper@latest
 ```
 
+### Precompiled Binaries
+
+For convenience, precompiled binaries are available for download. If you are using Windows, you can download the Windows executable directly from the [Releases](https://github.com/myacc/serialStripper/releases) page on GitHub.
+
+- **Windows**: [serialStripper.exe](https://github.com/myacc/serialStripper/releases/latest/download/serialStripper.exe)
+
 ## Installing from Source
 
 To build and install SerialStripper from source, follow these steps:
