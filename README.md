@@ -23,7 +23,7 @@ go install github.com/stilyanpetrovv/serialStripper@latest
 
 For convenience, precompiled binaries are available for download. If you are using Windows, you can download the Windows executable directly from the [Releases](https://github.com/stilyanpetrovv/serialStripper/releases) page on GitHub.
 
-- **Windows**: [serialStripper.exe](https://github.com/myacc/serialStripper/releases/latest/download/serialStripper.exe)
+- **Windows**: [serialStripper.exe](https://github.com/stilyanpetrovv/serialStripper/releases/latest/download/serialStripper.exe)
 
 ## Installing from Source
 
