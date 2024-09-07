@@ -1,4 +1,4 @@
-module serialStripper
+module github.com/stilyanpetrovv/serialStripper
 
 go 1.23.1
 
