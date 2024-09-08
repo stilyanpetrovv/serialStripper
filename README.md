@@ -1,7 +1,5 @@
 # SerialStripper
 
-SerialStripper is a simple CLI tool designed to process serial numbers from a text file, format them into a comma-separated list, and save the result in a new text file. It will also convert the formatted list into a PDF file.
-
 ## Features
 
 - Reads serial numbers from a text file (one serial number per line).
